@@ -2,7 +2,7 @@ This document is a modified version of the original lesson plan of class T81 558
 from [Washington University in St. Louis](http://www.wustl.edu)
 By instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 
-==Modified by Dr Junya Michann for CRMA class only==
+==Modified by Dr Junya Michanan for CRMA class only==
 CS5902 - Artificail Intelligent Theory
 
 **Please note, this semester is using TensorFlow 1.0.1.**
