@@ -29,7 +29,7 @@ interpret the results of these networks.
 3. Demonstrate your understanding of the material through a final project uploaded to GitHub.
 
 # Syllabus
-This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_558_spring2017_syllabus.pdf)
+This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://raw.githubusercontent.com/michanaj/t81_558_deep_learning/master/pdf/t81_558_spring2017_syllabus.pdf)
 
 Class|Content
 ---|---
