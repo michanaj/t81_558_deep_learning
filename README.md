@@ -45,7 +45,7 @@ Spring Break<br>03/13/2017 | **No class session**
 [Class 8](https://github.com/michanaj/t81_558_deep_learning/blob/master/t81_558_class8_cnn.ipynb)<br>03/20/2017 | <ul><li>Convolutional Neural Networks
 [Class 9](https://github.com/michanaj/t81_558_deep_learning/blob/master/t81_558_class9_regularization.ipynb)<br>03/27/2017 | <ul><li>Regularization and Dropout<li>Assignment: Read Chapter 12</ul>
 [Class 10](https://github.com/michanaj/t81_558_deep_learning/blob/master/t81_558_class10_lstm.ipynb)<br>04/03/2017 | <ul><li>Timeseries and Recurrent Neural Networks<li>Assignment: Read Chapter 13, <b>Program 3 Due (Tuesday, 4-4 at midnight)</b> (submitted on Kaggle.com)</ul>
-[Class 11](https://github.com/michanaj/t81_558_deep_learning/blob/master/t81_558_class11_nlp.ipynb)<br>04/10/2017 | <ul><li>Natural Language Processing<li>Assignment: Read Chapter 14</ul>
+[Class 11](https://github.com/michanaj/t81_558_deep_learning/blob/master/t81_558_class11_text_nlp.ipynb)<br>04/10/2017 | <ul><li>Natural Language Processing<li>Assignment: Read Chapter 14</ul>
 [Class 12](https://github.com/michanaj/t81_558_deep_learning/blob/master/t81_558_class12_app.ipynb)<br>04/17/2017 | <ul><li>Applications of Neural Networks <li>Assignment: <b>Program 4 Due (Tuesday, 4-18 at midnight)</b></ul>
 [Class 13](https://github.com/michanaj/t81_558_deep_learning/blob/master/t81_558_class13_other.ipynb)<br>04/24/2017 | <ul><li>Advanced Deep Learning Topics</ul>
 [Class 14](https://github.com/michanaj/t81_558_deep_learning/blob/master/t81_558_class14_aws.ipynb)<br>05/01/2017 | <ul><li>GPU, HPC and Cloud<li>Assignment: <b>Final Project Due (Tuesday, 5-2 at midnight)</b></ul>
